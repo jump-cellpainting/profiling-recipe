@@ -1,5 +1,8 @@
 # Image-based Profiling Recipe
 
+> [!CAUTION]
+> This repository is no longer being used as of Aug 4, 2025.
+
 # Description
 The profiling-recipe is a collection of scripts that primarily use [pycytominer](https://github.com/cytomining/pycytominer) functions to [process single-cell morphological profiles](https://github.com/cytomining/pycytominer/blob/master/media/pipeline.png). The three scripts are
 - `profiling-pipeline.py` - runs the image-based profile processing pipeline
